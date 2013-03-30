@@ -18,7 +18,7 @@
 
  /** update mysql database */
  $SQL->update_mysql('table', array(
- 	'name' => 'Concetto', 
+ 	'name' => 'Full name', 
  	'email' => 'user@localhost'
  	), array('id' => '12345'));
 
