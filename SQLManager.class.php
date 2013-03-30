@@ -4,7 +4,7 @@
   * @description Classe per Gestire il Database
   * @author Concetto Vecchio - info@cvsolutions.it
   * @version 1.0
-  * @copyright 2012
+  * @copyright 2013
 
   */
 
